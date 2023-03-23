@@ -8,7 +8,7 @@ Public link to the slide :
 https://docs.google.com/presentation/d/1KDIheNjvQytVDtqODQZ4kle28eTmf9FVSFw7rZE7jPI/edit?usp=sharing
 
 Project title:
-IoT Network attack detction using Machine learning and deep learning
+Classification And Explanation of Different Internet of Things (IoT) Network Attacks Using Machine Learning, Deep Learning And XAI
 
 Group Number:14
 22241158 Sabrina Tabassum
