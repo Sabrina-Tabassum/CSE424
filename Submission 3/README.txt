@@ -1,5 +1,5 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/eqcXQ21FD_g
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
@@ -20,10 +20,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 Link to the book chapter:
 https://web.stanford.edu/~jurafsky/slp3/26.pdf
 
-Group Number:
-02
-
-Group Members:
-22241158  Sabrina Tabassum
-18301189  S. M. Navin Nayer Anik
-18101296  Fahim Abrar
+Group Number:14
+22241158 Sabrina Tabassum
+20101250 Fahad Khan Raj
+20301378 Md. Farhad Mahamud
