@@ -11,7 +11,7 @@ Paper title:
 Partially automated exam answer script checking for Intro to Marketing
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1Kvamw3jH_xJChaj2QHubvGRpywpqAJsNztmXs7pqWrM/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 25 October 1999
