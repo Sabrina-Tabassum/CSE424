@@ -2,28 +2,28 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/sfczhytkxjzc
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/5CxBVmOa7Po
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://edas.info/
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Securing the Internet of Things: Machine Learning, Deep Learning, and XAI for IoT Network Attack Classification and Explanation
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/11nOlyWY77sEZd5PGHCXv4ZG_U47-OAtx/edit?usp=sharing&ouid=103667970134520093320&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
-25 October 1999
+29 April 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+1570908633 
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+15th IEEE International Conference CICN 2023
 
 Conference URL:
-http://confsite/...
+http://cicn.in/index.html
 
 Group Number:14
 22241158 Sabrina Tabassum
