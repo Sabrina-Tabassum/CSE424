@@ -11,10 +11,10 @@ Paper title:
 Securing the Internet of Things: Machine Learning, Deep Learning, and XAI for IoT Network Attack Classification and Explanation
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1s7nWnpLjl8i_7VYCxh_Y25OczTkfGpj8/edit?usp=sharing&ouid=103667970134520093320&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
-10 June 2023
+29 April 2023
 
 Paper submission ID: (received) from conference/workshop
 1570908633 
